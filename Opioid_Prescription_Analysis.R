@@ -22,7 +22,7 @@ df <- df %>%
 
 
 
-
+# Initiate ui for shiny app
 ui <- fluidPage(
   tags$h1("Understanding Opioid Prescription Trends in the US by State", style = "text-align: center; margin-top: 20px;"),
   fluidRow(
@@ -75,7 +75,7 @@ ui <- fluidPage(
 
 
 
-
+# Initiate server for shiny app
 server <- function(input, output, session) {
   
   selectedState1 <- reactiveVal(NULL)
