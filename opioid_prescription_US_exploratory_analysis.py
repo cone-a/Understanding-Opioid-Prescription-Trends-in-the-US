@@ -7,7 +7,7 @@ import pandas as pd
 
 # read in csv
 
-df = pd.read_csv('/Volumes/NO NAME/centene_interview/OMT_MDCD_R23_P11_V10_YTD21_GEO.csv')
+df = pd.read_csv('OMT_MDCD_R23_P11_V10_YTD21_GEO.csv')
 
 
 # # Display the first few rows of the DataFrame
