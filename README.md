@@ -1,11 +1,11 @@
 # Understanding Opioid Prescription Trends in the US
 
 
-This is US data from all 50 states regarding opioid prescribing information. 
+This is US data from all 50 states regarding opioid prescribing information from 2013 - 2021.
 
-Also there is a Python script for some exploratory data analysis. Just use the csv file and load in the data. 
+There is a Python script for some exploratory data analysis. Just use the csv file and load in the data. 
 
-You can copy-paste the script app.R script and change the directory to the data file and run the RShiny app.
+Also you can download or copy-paste the app.R script and change the directory to the csv file and run the RShiny app and play with the interactive data visualization. 
 
 Feel free to explore. 
 
